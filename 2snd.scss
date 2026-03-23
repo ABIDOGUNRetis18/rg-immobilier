@@ -1,0 +1,49 @@
+/*!
+ * ---------------------------------------------------------------------
+ *
+ * GLPI - Gestionnaire Libre de Parc Informatique
+ *
+ * http://glpi-project.org
+ *
+ * @copyright 2015-2026 Teclib' and contributors.
+ * @copyright 2003-2014 by the INDEPNET Development Team.
+ * @licence   https://www.gnu.org/licenses/gpl-3.0.html
+ *
+ * ---------------------------------------------------------------------
+ *
+ * LICENSE
+ *
+ * This file is part of GLPI.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
+ *
+ * ---------------------------------------------------------------------
+ */
+:root[data-glpi-theme="2snd"] {
+    --tblr-primary-rgb: 229, 94, 43;
+    --tblr-secondary: #1A57A8;
+    --tblr-secondary-fg: #fcfcfc;
+    --tblr-link-color-rgb: 184, 72, 26;
+    --glpi-mainmenu-bg: #042C67; // hsv(218°, 97%, 40%)
+    --glpi-helpdesk-header: hsl(218deg, 75%, 85%);
+    --glpi-mainmenu-fg: #f4f6fa;
+    --glpi-palette-color-1: #042C67;
+    --glpi-palette-color-2: #021E46;
+    --glpi-palette-color-3: #E55E2B;
+    --glpi-palette-color-4: #F5BB9F;
+    // Helpdesk header
+    --glpi-illustrations-gradient-1: hsl(218deg, 75%, 92%);
+    --glpi-illustrations-gradient-2: hsl(218deg, 75%, 72%);
+    --glpi-illustrations-gradient-3: hsl(218deg, 75%, 45%);
+}
